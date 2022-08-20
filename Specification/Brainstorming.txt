@@ -1,0 +1,20 @@
+08/08
+Speech recognition:
+	- audio files fetching.
+	- audio representation apt for processing.
+	- espectrograma de los audios.	
+	- association (phones string) <----> (espectrograma). 
+	
+Database construction:
+	- conceptulize key parameters. 
+	- find relations between aforementioned parameters in order to create a business model.
+	- connect via an API with speech recognition. 
+----------
+16/08
+Web Scraping
+	-
+	-
+	-
+
+
+----------

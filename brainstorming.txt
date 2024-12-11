@@ -1,0 +1,47 @@
+Distant village:
+Greetings. You are very tired. Sit and rest. -> Banin omana 
+We are friends. Welcome. Sit and rest. -> Omana iuma
+Please sit and rest. -> Bedrion omina
+It is warm and safe. Sit and rest. -> Iorunch omana
+Welcome. You need rest. Sit and rest. -> Banin omana 
+
+
+Moss cultist:
+Oooohhh radiant being, we are blessed. Your rays touch us. Your warmth fills us.
+Hallownest is born again, united in your blazing image. Oohhh...
+
+Light is life, beaming, pure, brilliant. To stifle that light is to suppress nature.
+Nature suppressed distorts, plagues us. Embrace light! Achieve union! Oohh..Ahhh.
+
+Touaan gala cala saanochere chererel gounele gouaan gouaaan che gouaaan gouelnego besso ga galagma
+
+Old Stag:
+
+amiz sodo | goro goro | gualaba | te'e choro | tieema | m-gnooue | 
+
+Queen:
+tromen ba | pian nge roz |
+
+
+_____________________
+
+
+
+
+https://www.youtube.com/shorts/cxtmg6xykEs
+https://www.youtube.com/shorts/msSrhYUrY8E
+phonetic transcription -> second year undergrad phonetics class. Dr. Steve Winters: http://www.uofclinguistics.org/
+Harvard or Oxford linguistics:
+https://academic.oup.com/edited-volume/42643?login=false
+
+https://www.quora.com/How-do-I-learn-to-transcribe-correctly-in-my-phonetics-studies
+https://www.quora.com/What-is-a-good-software-to-transcribe-spoken-language-into-phonetic-symbols
+https://www.quora.com/Is-there-any-software-that-can-be-used-to-map-the-phonetics-of-a-given-text
+https://www.quora.com/How-can-I-get-the-phonetic-transcriptions-from-my-own-audio-recording-on-Praat-or-any-other-app-or-website-Is-it-possible-or-do-I-need-an-expert-to-do-it-for-me
+
+maybe once we have word by word transcription: 
+https://babel.ling.upenn.edu/phonetics/old_website_2015/p2fa/index.html
+https://babel.ling.upenn.edu/phonetics/old_website_2015/archive/software.htm
+
+Phon software
+https://www.phon.ca/phon-manual/install.html

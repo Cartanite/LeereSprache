@@ -3,7 +3,7 @@ Speech recognition:
 	- audio files fetching.
 	- audio representation apt for processing.
 	- espectrograma de los audios.	
-	- association (phones string) <----> (espectrograma). 
+	- association (phones string) <----> (spectrogram). 
 	
 Database construction:
 	- conceptulize key parameters. 
